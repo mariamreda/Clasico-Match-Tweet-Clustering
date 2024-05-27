@@ -7,9 +7,6 @@ This project aims to cluster tweets collected during a Clasico match into sub-ev
 - [Introduction](#introduction)
 - [Instructions](#instructions)
 - [Dataset Description](#dataset-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Clustering Algorithms](#clustering-algorithms)
 
 ## Introduction
 
