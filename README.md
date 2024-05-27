@@ -1,4 +1,4 @@
-# Clasico Match Tweet Clustering System
+# Clasico Match Tweet Clustering
 
 This project aims to cluster tweets collected during a Clasico match into sub-events using various clustering algorithms. Tweets are grouped based on similarities in text content and temporal closeness. The clustering algorithms applied include K-core clustering, k-truss clustering, Girvan-Newman algorithm, and Louvain community detection. The results are then analyzed and compared.
 
